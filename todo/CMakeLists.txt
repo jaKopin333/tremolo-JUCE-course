@@ -69,7 +69,7 @@ juce_add_plugin(
   VERSION
     0.0.0
   COMPANY_NAME
-    Koppe Electronics
+    "Koppe Electronics"
   PLUGIN_MANUFACTURER_CODE
     Koel
   PLUGIN_CODE
